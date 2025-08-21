@@ -1,8 +1,8 @@
-import dynamic_programming.CanConstruct;
+import dynamic_programming.CountConstruct;
 
 public class Main {
 
     public static void main(String[] args) {
-        CanConstruct.run(args);
+        CountConstruct.run(args);
     }
 }
