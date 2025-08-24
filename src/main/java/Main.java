@@ -1,8 +1,8 @@
-import dynamic_programming.CountConstruct;
+import dynamic_programming.Fibonacci;
 
 public class Main {
 
     public static void main(String[] args) {
-        CountConstruct.run(args);
+        Fibonacci.run(args);
     }
 }
