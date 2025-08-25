@@ -1,8 +1,8 @@
-import dynamic_programming.Fibonacci;
+import dynamic_programming.GridTraveler2D;
 
 public class Main {
 
     public static void main(String[] args) {
-        Fibonacci.run(args);
+        GridTraveler2D.run(args);
     }
 }
