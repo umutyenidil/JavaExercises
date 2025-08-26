@@ -1,8 +1,8 @@
-import dynamic_programming.GridTraveler2D;
+import dynamic_programming.Tribonacci;
 
 public class Main {
 
     public static void main(String[] args) {
-        GridTraveler2D.run(args);
+        Tribonacci.run(args);
     }
 }
