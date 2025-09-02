@@ -1,8 +1,8 @@
-import dynamic_programming.SumPossible;
+import dynamic_programming.CountPaths;
 
 public class Main {
 
     public static void main(String[] args) {
-        SumPossible.run(args);
+        CountPaths.run(args);
     }
 }
