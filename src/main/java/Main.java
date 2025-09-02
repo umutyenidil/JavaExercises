@@ -1,8 +1,8 @@
-import dynamic_programming.CountPaths;
+import dynamic_programming.MaxPathSum;
 
 public class Main {
 
     public static void main(String[] args) {
-        CountPaths.run(args);
+        MaxPathSum.run(args);
     }
 }
