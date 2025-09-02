@@ -1,8 +1,8 @@
-import dynamic_programming.MaxPathSum;
+import dynamic_programming.MaxNonAdjacentSum;
 
 public class Main {
 
     public static void main(String[] args) {
-        MaxPathSum.run(args);
+        MaxNonAdjacentSum.run(args);
     }
 }
