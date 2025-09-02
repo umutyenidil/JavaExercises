@@ -1,8 +1,8 @@
-import dynamic_programming.Tribonacci;
+import dynamic_programming.SumPossible;
 
 public class Main {
 
     public static void main(String[] args) {
-        Tribonacci.run(args);
+        SumPossible.run(args);
     }
 }
