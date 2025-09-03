@@ -1,8 +1,8 @@
-import dynamic_programming.MaxNonAdjacentSum;
+import dynamic_programming.SquaresSum;
 
 public class Main {
 
     public static void main(String[] args) {
-        MaxNonAdjacentSum.run(args);
+        SquaresSum.run(args);
     }
 }
