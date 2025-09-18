@@ -1,8 +1,8 @@
-import big_o.BinarySearch;
+import graph.HasPath;
 
 public class Main {
 
     public static void main(String[] args) {
-        BinarySearch.run(args);
+        HasPath.run(args);
     }
 }
