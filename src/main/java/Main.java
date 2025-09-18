@@ -1,8 +1,8 @@
-import dynamic_programming.SquaresSum;
+import big_o.BinarySearch;
 
 public class Main {
 
     public static void main(String[] args) {
-        SquaresSum.run(args);
+        BinarySearch.run(args);
     }
 }
